@@ -1,0 +1,1 @@
+Converts CFG to CNF
